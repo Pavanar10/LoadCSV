@@ -1,0 +1,15 @@
+#config.toml
+[app]
+name="loadCSV"
+version="0.1.0"
+
+
+[file]
+path = '../csv_flies/NCTSREPORT.csv'
+
+[serverDetails]
+server = 'VRYNT007\VRYNT007'
+port = '55129'
+user = 'CustomsLinkX'
+password = '9"t*w@G59Lm^4r2('
+database = 'customs_analyse_test'
